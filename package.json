@@ -11,7 +11,7 @@
     "joyplot",
     "swag",
     "clothes customization",
-    "3D",
+    "3D"
   ],
   "dependencies": {
     "@react-three/drei": "^9.109.5",
